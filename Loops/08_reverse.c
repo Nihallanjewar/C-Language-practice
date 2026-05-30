@@ -8,7 +8,3 @@ int main()
     }
     return 0;
 }
-// QUESTIONS TO ASK WHEN STUCK!!
-// Where to start?
-// where to stop?
-// increment or decrement!

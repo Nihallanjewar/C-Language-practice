@@ -8,7 +8,3 @@ int main()
     }
     return 0;
 }
-//Summary:-
-/*Sabse pehle i=0 put hoga fir condition dekhi jayegi ki 0<8 or not
-if yes then pehla iteration print oga fir same process baki nos ke liye 
-bhi check hogi till 8 then for 9 the truth value is false i.e 0 toh program ends*/
