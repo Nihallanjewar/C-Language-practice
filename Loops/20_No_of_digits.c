@@ -12,6 +12,5 @@ int main()
         count++;
     }
     printf("The number of digits are %d", count);
-    scanf("%d", &count);
     return 0;
 }
