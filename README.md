@@ -5,6 +5,7 @@
 ## About 
 
 Welcome to my C Language Practice Repository!
+
 This repository contains the programs I solve while learning C Programming and improving my logical thinking and problem solving-skills.
 Every program represents a small step towards becoming a better programmer.
 
