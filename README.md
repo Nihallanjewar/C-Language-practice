@@ -20,7 +20,7 @@ Every program represents a small step towards becoming a better programmer.
 
   ## Goal
 
-  My goal is not just to learn C syntax, but to develop strong logical thinking and problem solving skills through consisten practice.
+  My goal is not just to learn C syntax, but to develop strong logical thinking and problem solving skills through consistent practice.
   I believe that writing code every day is one of the best ways to become a better programmer.
 
   ## Current Progress
