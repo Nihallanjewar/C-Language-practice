@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
     int arr[] = {2, 5, 2, 7, 2, 9};
     int n = 6, i, count1 = 0, count2 = 0, count3 = 0;
